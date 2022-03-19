@@ -7,5 +7,7 @@
   "inputBig":"$1, en az 1 büyük harf icermelidir",
   "inputNum":"$1, en az 1 sayı icermelidir",
   "inputSpecial":"$1, en az 1 özel karakter icermelidir",
-  "test": "test"
+  "test": "test",
+  "inputInclude":"$1, \"$2\" icermelidir",
+  "inputUnvalid":"$1, gecerli bir $2 değil."
 }
