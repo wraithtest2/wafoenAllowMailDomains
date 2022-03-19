@@ -10,6 +10,7 @@
   "inputSpecial":"$1, en az 1 özel karakter icermelidir",
   "test": "test",
   "inputInclude":"$1, \"$2\" icermelidir",
+  "inputNotInclude":"$1, \"$2\" icermemelidir",
   "inputIncludeLimit":"$1, $2'den fazla \"$2\" iceremez",
   "inputUnvalid":"$1, gecerli bir $2 değil."
 }
