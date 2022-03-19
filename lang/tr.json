@@ -6,5 +6,6 @@
   "inputSmall":"$1, en az 1 kücük harf icermelidir.",
   "inputBig":"$1, en az 1 büyük harf icermelidir",
   "inputNum":"$1, en az 1 sayı icermelidir",
-  "inputSpecial":"$1, en az 1 özel karakter icermelidir"
+  "inputSpecial":"$1, en az 1 özel karakter icermelidir",
+  "test": "test"
 }
