@@ -14,5 +14,5 @@
   "inputIncludeLimit":"$1, $2'den fazla \"$2\" iceremez",
   "inputUnvalid":"$1, gecerli bir $2 değil.",
   "usernameExample": "AnimeSever",
-  "emailExample": "Anime.server@eposta.adresi",
+  "emailExample": "Anime.server@eposta.adresi"
 }
