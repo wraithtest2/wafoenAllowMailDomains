@@ -1,10 +1,10 @@
 {
   "password": "Sifre",
   "username": "Kullanıcı Adı",
-  "usernameShort":"Kullanıcı adı, $1 haneden kısa olamaz.",
-  "usernameLong":"Kullanıcı adı, $1 haneden uzun olamaz.",
-  "usernameSmall":"Kullanıcı adı, en az 1 kücük harf icermelidir.",
-  "usernameBig":"Kullanıcı adı, en az 1 büyük harf icermelidir",
-  "usernameNum":"Kullanıcı adı, en az 1 sayı icermelidir",
-  "usernameSpecial":"Kullanıcı adı, en az 1 özel karakter icermelidir"
+  "inputShort":"$1, $2 haneden kısa olamaz.",
+  "inputLong":"$1, $2 haneden uzun olamaz.",
+  "inputSmall":"$1, en az 1 kücük harf icermelidir.",
+  "inputBig":"$1, en az 1 büyük harf icermelidir",
+  "inputNum":"$1, en az 1 sayı icermelidir",
+  "inputSpecial":"$1, en az 1 özel karakter icermelidir"
 }
