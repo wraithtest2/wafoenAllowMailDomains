@@ -1,6 +1,7 @@
 {
   "password": "Sifre",
   "username": "Kullanıcı Adı",
+  "email": "E-Posta Adresi",
   "inputShort":"$1, $2 haneden kısa olamaz.",
   "inputLong":"$1, $2 haneden uzun olamaz.",
   "inputSmall":"$1, en az 1 kücük harf icermelidir.",
